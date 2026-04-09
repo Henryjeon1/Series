@@ -1,5 +1,4 @@
 import os
-import pymysql
 import pandas as pd
 from pandas import DataFrame
 from pandas import Series
